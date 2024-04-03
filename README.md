@@ -1,4 +1,4 @@
-# Scooter Rental Application
+# Scooter Rental Application 🛴 🛴 🛴 
 
 This is a simple application for managing scooter rentals. It allows users to rent scooters, calculate rental costs based on usage, and track rental profits.
 
